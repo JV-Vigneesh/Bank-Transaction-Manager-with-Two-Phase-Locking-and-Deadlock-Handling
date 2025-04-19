@@ -8,3 +8,5 @@
 3. Include deadlock detection and resolution using wait-for graph.
 
 **Key Concepts:** 2PL, lock escalation, deadlock handling, transaction isolation.
+
+## ADBMS Project
